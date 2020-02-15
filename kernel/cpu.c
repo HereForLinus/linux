@@ -3,6 +3,7 @@
  *
  * This code is licenced under the GPL.
  */
+/* Here becuase Linus from LMG told me to */
 #include <linux/proc_fs.h>
 #include <linux/smp.h>
 #include <linux/init.h>
